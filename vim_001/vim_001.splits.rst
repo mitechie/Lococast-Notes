@@ -1,0 +1,65 @@
+Splits
+=======
+
+What is a split:
+-------------------
+
+- Just that, split the screen, each split contains a buffer
+- Verical or Horizontal
+- create/navigate via keyboard shortcuts
+
+What are they good for
+-----------------------
+- Working on diff files at once, who needs tabs?
+- Model/View/Controller
+- Split same file, work in two areas at once
+- Split file before doing action that moves focus
+- Room for other data, pydoc, quickfix window
+
+Keyboard Shortcuts
+---------------------
+
+- based on ctrl-w
+
+Creating
+~~~~~~~~~
+
+- create vertical split Ctrl-w v
+- create Horizontal split Ctrl-w s
+- multiple splits
+
+Moving Around
+~~~~~~~~~~~~~~
+
+- Ctrl-w h/j/k/l
+
+- One more reason to make sure you ditch those arrow keys
+- ok, but arrow keys DO work :-/
+- Keep your hands at the keyboard, forget that crazy mouse
+- a whole array of other options, more specific
+
+Moving Splits
+~~~~~~~~~~~~~~
+- Move splits around
+- Ctrl-W HJKL (and sometimes T if you must)
+- Ctrl-w r/x
+
+
+Resizing
+~~~~~~~~~
+- Adjust vertical size Ctrl-w -/+
+- Adjust horizontal size Ctrl-w <>
+
+Sample Uses
+~~~~~~~~~~~~
+
+Editing same file, two places
+******************************
+
+Plugins/Tools Pydoc
+*********************
+
+Quickfix
+***********
+
+
